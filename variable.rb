@@ -1,2 +1,2 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+greeting = "Hello World"
+puts "In this lesson, I'm trying to put greeting as Hello World #{greeting}"
